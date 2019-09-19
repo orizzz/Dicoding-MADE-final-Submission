@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Movie Cataloge Dicoding</string>
+    <string name = "nav_movie_name">Film</string>
+    <string name = "nav_tv_name">Acara TV</string>
+    <string name="nav_fav_name">Favorit</string>
+    <string name="setting">Pengaturan</string>
+    <string name = "setting_language">Pengaturan bahasa</string>
+    <string name = "more_info">Info Lebih Lanjut</string>
+    <string name="no_fav_movie">Belum ada Film favorit,\nCoba tambahkan beberapa</string>
+    <string name="no_fav_tv">Belum ada acara tv favorit,\nCoba tambahkan beberapa</string>
+    <string name="overview">Sinopsis</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="added_to_favorite">Ditambahkan ke Favorit</string>
+    <string name="already_favorite">kamu sudah pernah menambahkan ini ke favorite</string>
+    <string name="deltedfavorite">Dihapus dari Favorit</string>
+    <string name="favorite">Tambah ke Favorit</string>
+    <string name="delfavorite">Hapus dari Favorit</string>
+    <string name="Search">Pencarian</string>
+    <string name="search_bar">Bosan? Coba cari sesuatu</string>
+    <string name="search_empty">Tidak ada hasil\n Coba cari hal yang berbeda</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="appwidget_empty">TIDAK ADA DATA</string>
+    <string name="add_widget">Tambahkan widget</string>
+    <string name="daily_reminder">Notifikasi harian</string>
+    <string name="new_movie">Notifikasi film baru</string>
+
+
+    <string name="reminder_title">Hello semuanya</string>
+    <string name="reminder_content">Ayo lihat film dan acara tv rekomendasi kami</string>
+    <string name="new_movie_notif">Lihat, ada film baru</string>
+</resources>
